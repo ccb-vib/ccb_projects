@@ -8,7 +8,7 @@ List of current and completed bioinformatic projects for CCB
 - [X] [202009_van_mol](https://github.com/ccb-vib/202009_van_mol) statistical and correlation analysis
 - [ ] [202009_mazzone](https://github.com/ccb-vib/202009_mazzone) scRNAseq analysis 
 - [X] [202010_cuadros](https://github.com/ccb-vib/202010_cuadros) script to annotate genes with GO terms
-- [ ] [202010_trotta](https://github.com/ccb-vib/202010_trotta) benchmark prostaglandin related genes in GSE melanoma data
+- [X] [202010_trotta](https://github.com/ccb-vib/202010_trotta) benchmark prostaglandin related genes in GSE melanoma data
 
 
 
