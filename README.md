@@ -10,7 +10,10 @@ List of current and completed bioinformatic projects for CCB
 - [X] [202010_cuadros](https://github.com/ccb-vib/202010_cuadros) pipeline to annotate genes with GO terms
 - [X] [202010_trotta](https://github.com/ccb-vib/202010_trotta) benchmark prostaglandin related genes in GSE melanoma data
 - [ ] [202011_scolaro](https://github.com/ccb-vib/202011_scolaro) SCENIC analysis of scRNAseq data
-- [ ] [202012_broadfield](https://github.com/ccb-vib/202012_broadfield) analysis of proteomic and metabolomic data
+- [X] [202012_broadfield](https://github.com/ccb-vib/202012_broadfield) analysis of proteomic and metabolomic data
+- [ ] [202101_FACS](https://github.com/ccb-vib/202101_FACS) FACS Analysis pipeline
+- [ ] [202101_manzano](https://github.com/ccb-vib/202101_manzano) bulk RNAseq analysis
+- [ ] [202101_mario](https://github.com/ccb-vib/202101_mario) CRISPR/Cas screening
 
 
 
