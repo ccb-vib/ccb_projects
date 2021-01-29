@@ -14,6 +14,7 @@ List of current and completed bioinformatic projects for CCB
 - [ ] [202101_FACS](https://github.com/ccb-vib/202101_FACS) FACS Analysis pipeline
 - [ ] [202101_manzano](https://github.com/ccb-vib/202101_manzano) bulk RNAseq analysis
 - [ ] [202101_mario](https://github.com/ccb-vib/202101_mario) CRISPR/Cas screening
+- [ ] [202101_ria](https://github.com/ccb-vib/202101_ria) Transcriptomic benchmarking in GEO data
 
 
 
