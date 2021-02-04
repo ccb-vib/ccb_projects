@@ -12,9 +12,10 @@ List of current and completed bioinformatic projects for CCB
 - [ ] [202011_scolaro](https://github.com/ccb-vib/202011_scolaro) SCENIC analysis of scRNAseq data
 - [X] [202012_broadfield](https://github.com/ccb-vib/202012_broadfield) analysis of proteomic and metabolomic data
 - [ ] [202101_FACS](https://github.com/ccb-vib/202101_FACS) FACS Analysis pipeline
-- [ ] [202101_manzano](https://github.com/ccb-vib/202101_manzano) bulk RNAseq analysis
+- [X] [202101_manzano](https://github.com/ccb-vib/202101_manzano) bulk RNAseq analysis
 - [ ] [202101_mario](https://github.com/ccb-vib/202101_mario) CRISPR/Cas screening
 - [ ] [202101_ria](https://github.com/ccb-vib/202101_ria) Transcriptomic benchmarking in GEO data
+- [ ] [202101_jelle](https://github.com/ccb-vib/202101_jelle) Transcriptomic benchmarking in TCGA data
 
 
 
