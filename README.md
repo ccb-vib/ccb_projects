@@ -17,6 +17,6 @@ List of current and completed bioinformatic projects for CCB
 - [ ] [202101_ria](https://github.com/ccb-vib/202101_ria) Transcriptomic benchmarking in GEO data
 - [ ] [202101_jelle](https://github.com/ccb-vib/202101_jelle) Transcriptomic benchmarking in TCGA data
 - [ ] [202102_carla](https://github.com/ccb-vib/202102_carla) GSEA and upstream regulation analysis of TRAIL gene
-- [ ] [202102_silvia](https://github.com/ccb-vib/202101_ria) Transcriptomic benchmarking in GEO data
+- [ ] [202102_silvia](https://github.com/ccb-vib/202102_silvia) Transcriptomic benchmarking in GEO data
 
 
